@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./your-header-image-name.png)
 
 ![👋 Hi, my name is Sidamallappa Hatti](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="sdhatti007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/sidamallappahatti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sidamallappa-hatti-18b118239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/sidamallappa-hatti-18b118239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/sidamallappahatti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="sdhatti007@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/mr_matching_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate software test engineer. Skilled in both manual testing and automation testing.</h3>**
 
@@ -58,5 +57,7 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidamallappahatti&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=sidamallappahatti&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
 </p>
+
+
 
 
